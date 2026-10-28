@@ -1,0 +1,17 @@
+Project Update: Advanced SQL Analytics & Business Intelligence
+
+I’m building my SQL skills through a hands-on MySQL project focused on business intelligence and analytical queries.
+
+Key concepts covered:
+• CTEs and multi-step queries
+• ROW_NUMBER(), RANK(), and DENSE_RANK()
+• LAG(), LEAD(), and running totals
+• Joins, subqueries, and aggregations
+• Monthly sales analysis and revenue growth
+• Customer spending and department payroll analysis
+
+This project helps me practice turning structured data into useful business insights.
+
+Tools: MySQL 8.0+ | SQL
+
+#SQL #MySQL #DataAnalytics #BusinessIntelligence #SQLProjects #LearningByDoing
